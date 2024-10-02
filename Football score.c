@@ -1,3 +1,4 @@
+#include <stdio.h>
 // Function to find all combinations
 void findCombinations(int score, int td, int fg, int safety, int td2, int td1) {
     if (score == 0) {
